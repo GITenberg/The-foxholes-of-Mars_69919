@@ -1,0 +1,29 @@
+_repo: The-foxholes-of-Mars_69919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leiber, Fritz
+    alias: Leiber, Fritz Reuter
+    birthdate: 1910
+    deathdate: 1992
+    gutenberg_agent_id: '25421'
+    url: http://www.gutenberg.org/2009/agents/25421
+    wikipedia: https://en.wikipedia.org/wiki/Fritz_Leiber
+description: ''
+gutenberg_issued: '2023-01-31'
+identifiers:
+  gutenberg: '69919'
+language: en
+pgterms:marc905: 20220522064757leiber
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1952.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The foxholes of Mars
+url: http://www.gutenberg.org/ebooks/69919
